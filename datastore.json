@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Caffè Mocha",
-      "price": 26.000,
+      "price": "26K",
       "description": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
       "thumbnail": "https://cdn.jsdelivr.net/gh/kiagusmuhammadryan2310282/coffeeshop-api-kiagus@main/images/caffe_mocha_thumbnail.png",
       "image_detail": "https://cdn.jsdelivr.net/gh/kiagusmuhammadryan2310282/coffeeshop-api-kiagus@main/images/caffe_mocha_poster.jpg"
@@ -82,4 +82,5 @@
     }
   ]
 }
+
 
